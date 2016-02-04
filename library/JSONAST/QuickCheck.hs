@@ -1,7 +1,7 @@
-module JSON.AST.QuickCheck where
+module JSONAST.QuickCheck where
 
 import Prelude
-import JSON.AST
+import JSONAST
 import Test.QuickCheck
 import Test.QuickCheck.Instances
 
